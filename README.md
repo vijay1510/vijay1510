@@ -12,6 +12,10 @@
 
 <h3 align="center">I'm ardent Front End Developer having an experience of building Web application  with React.js and some other cool libraries and frameworks.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay1510&label=Profile%20views&color=0e75b6&style=flat" alt="vijay" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay1510" alt="vijay" /></a> </p>
+
 
 - 🌱 I’m currently learning **Backend Development**
 
