@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mail2vijaynath@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vijayanath-ganesan-328b99224/](https://www.linkedin.com/in/vg/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/vg1510/](https://www.linkedin.com/in/vg/)
 
 <h3 align="left">Connect with me:</h3>
 
