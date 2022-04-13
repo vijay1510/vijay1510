@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https;//hanzla.netlify.app](https://hanzla.netlify.app)
+- 👨‍💻 All of my projects are available at [https;//hanzla.netlify.app](https://vg.netlify.app)
 
 - 💬 Ask me about ** Reactjs, NodeJS**
 
-- 📫 How to reach me **mail2vijaynath"gmail.com@gmail.com**
+- 📫 How to reach me **mail2vijaynath@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/1hanzla100/](https://www.linkedin.com/in/1hanzla100/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/1hanzla100/](https://www.linkedin.com/in/vg/)
 
 <h3 align="left">Connect with me:</h3>
 
