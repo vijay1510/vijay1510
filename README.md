@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https;//vg.netlify.app](https://vg.netlify.app)
+- 👨‍💻 All of my projects are available at [https;//vg.netlify.app](https://vg-web-developer.netlify.app)
 
 - 💬 Ask me about ** Reactjs, NodeJS**
 
