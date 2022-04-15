@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **mail2vijaynath@gmail.com**
 
-- 📄 Know about my experiences in [linkedin](https://www.linkedin.com/in/vg1510/)
+- 📄 Know more about me in [linkedin](https://www.linkedin.com/in/vg1510/)
 
 <h3 align="left">Connect with me:</h3>
 
