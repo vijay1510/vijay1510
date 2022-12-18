@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay1510" alt="vijay" /></a> </p>
 
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently working as  **Front-End Web Developer**
 
 - 👨‍💻 All of my projects are available at [my-portfolio](https://vg-web-developer.netlify.app)
 
