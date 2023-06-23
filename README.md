@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi all, I'm Vijayanath Ganesan</h1>
 
-<h3 align="center">An ardent Web Developer 🚀 having an experience of building Web applications with PHP/ JavaScript / TypeScript/ Reactjs / Nodejs / and some other cool libraries and frameworks.
+<h3 align="center">An ardent Web Developer 🚀 having an experience of building Web applications with PHP / JavaScript / TypeScript/ Reactjs / Nodejs / and some other cool libraries and frameworks.
  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay1510&label=Profile%20views&color=0e75b6&style=flat" alt="vijay" /> </p>
