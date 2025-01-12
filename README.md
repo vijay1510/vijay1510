@@ -10,7 +10,8 @@
 
 <h1 align="center">Hi all, I'm Vijayanath Ganesan</h1>
 
-<h3 align="center">An ardent Web Developer 🚀 having an experience of building Web applications with PHP / JavaScript / TypeScript/ Reactjs / Nodejs / and some other cool libraries and frameworks.
+<h3 align="center">A Front-End Developer with 4.5 years of experience in React, TypeScript, and Tailwind CSS. Skilled in building responsive,
+high-performance web applications and improving UI/UX through collaborative development and testing.
  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay1510&label=Profile%20views&color=0e75b6&style=flat" alt="vijay" /> </p>
@@ -18,13 +19,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay1510" alt="vijay" /></a> </p>
 
 
-- 🌱 I’m currently working as  **Web Developer**
+- 🌱 I’m currently working as  **Front End Developer**
 
 - 👨‍💻 All of my projects are available at [my-portfolio](https://vg-web-developer.netlify.app)
 
 - 💬 Ask me about ** Reactjs, NodeJS**
 
-- 📫 How to reach me **mail2vijaynath@gmail.com**
+- 📫 How to reach me **vijayanath.ganesan@gmail.com**
 
 - 📄 Know more about me in [linkedin](https://www.linkedin.com/in/vg1510/)
 
