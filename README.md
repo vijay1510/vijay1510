@@ -23,8 +23,6 @@ high-performance web applications and improving UI/UX through collaborative deve
 
 - 👨‍💻 All of my projects are available at [my-portfolio](https://vg-web-developer.netlify.app)
 
-- 💬 Ask me about ** Reactjs, NodeJS**
-
 - 📫 How to reach me **vijayanath.ganesan@gmail.com**
 
 - 📄 Know more about me in [linkedin](https://www.linkedin.com/in/vg1510/)
