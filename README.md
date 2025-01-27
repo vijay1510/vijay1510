@@ -25,12 +25,10 @@ high-performance web applications and improving UI/UX through collaborative deve
 
 - 📫 How to reach me **vijayanath.ganesan@gmail.com**
 
-- 📄 Know more about me in [linkedin](https://www.linkedin.com/in/vg1510/)
+
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/vg1510/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vg" height="30" width="40" /></a>
-<a href="mailto:mail2vijaynath@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="vg" height="30" width="40" /></a>
 
 
 
